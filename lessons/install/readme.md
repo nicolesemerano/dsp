@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I downloaded Python onto my computer only a few days into my Data Science Journey.  I chose Python 3 because at the time I did not know that Python 2 was still widely used.  There are exceptions, but for the most part you download the latest version.  So that is what I did.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> Python 3.8.1
 
  
 
